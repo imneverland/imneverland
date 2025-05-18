@@ -1,6 +1,6 @@
 ### Hi, I'm Lingzhi Yan 🧭✨ Building bridges between ideas and reality with code.
 
-<img align="right" width="250" src="" />
+<!-- <img align="right" width="250" src="" /> -->
 
 I believe software is more than just lines of code; it's a dynamic tapestry woven to solve complex puzzles and enhance human experience. My passion lies in **designing and constructing robust backend systems** that can withstand the test of scale and time. I'm driven by the thrill of transforming abstract challenges into tangible, high-performing solutions.
 
