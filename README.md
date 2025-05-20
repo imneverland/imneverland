@@ -19,6 +19,6 @@ I believe software is more than just lines of code; it's a dynamic tapestry wove
 While my roots are deeply embedded in `Java` & the `Spring Ecosystem`, I'm a polyglot at heart, comfortable wielding `Python` for AI/ML adventures and always eager to pick up the right tool for the job.
 
 💬 **Let's Shape the Future:**
-*   Brainstorm via email: `geek@yanlz.com`
+*   Brainstorm via email: Z2Vla0B5YW5sei5jb20=
 
 Eager to collaborate with fellow builders and thinkers on projects that push boundaries!
